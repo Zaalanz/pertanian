@@ -1,14 +1,1 @@
-{
-    "farmers": [
-        {
-            "id": "farmer-commodities",
-            "name": "Andi Andalas",
-            "loc": "Ponorogo"
-        },
-        {
-            "id": "farmer-uo4egrnjsdkdv",
-            "name": "Lukas Hasibuan",
-            "loc": "Minangkabau"
-        }
-    ]
-}
+{"farmers":[{"id":"farmer-commodities","name":"Andi Andalas","loc":"Ponorogo"},{"id":"farmer-uo4egrnjsdkdv","name":"Lukas Hasibuan","loc":"Minangkabau"},{"id":"farmer-1729248162583","name":"Zaalan Nayaka","loc":"Madiun"},{"id":"farmer-1729248213476","name":"Muhammad Geral","loc":"Ponorogo"}]}
