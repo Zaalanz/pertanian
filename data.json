@@ -1,0 +1,14 @@
+{
+    "farmers": [
+        {
+            "id": "farmer-commodities",
+            "name": "Andi Andalas",
+            "loc": "Ponorogo"
+        },
+        {
+            "id": "farmer-uo4egrnjsdkdv",
+            "name": "Lukas Hasibuan",
+            "loc": "Minangkabau"
+        }
+    ]
+}
